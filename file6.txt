@@ -2,4 +2,4 @@ file6.txt
 
 
 change from master
-change from bugfix3
+change from bugfix4
