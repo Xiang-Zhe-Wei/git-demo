@@ -1,4 +1,8 @@
 file6.txt
 
 
+<<<<<<< HEAD
 change from master
+=======
+change from bugfix3
+>>>>>>> bugfix3
